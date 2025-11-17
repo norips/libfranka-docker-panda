@@ -16,6 +16,3 @@
 [submodule "docker_volume/ros2_ws/src/franka_ros2"]
 	path = docker_volume/ros2_ws/src/franka_ros2
 	url = https://github.com/boschresearch/franka_ros2.git
-[submodule "docker_volume/ros2_ws/src/franka_description"]
-	path = docker_volume/ros2_ws/src/franka_description
-	url = https://github.com/frankaemika/franka_description
